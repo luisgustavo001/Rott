@@ -1,0 +1,16 @@
+{
+  "name": "Meu Rott",
+  "short_name": "Rott",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+    "src": "luvamickey.png",
+    "sizes": "367x367",
+    "type": "image/png"
+    }
+  ]
+}
+  
